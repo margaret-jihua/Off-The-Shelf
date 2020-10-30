@@ -2,7 +2,7 @@
 This is our Final Project for General Assembly. Off the Shelf is a one stop shop for all things books. You can search by title or by author. Once you've selected a book, you are able to see additional information, such as similar books, ratings and reviews, buy links to purchase the book and information on any film or tv adaptations of the book. You can also save books to check out later to your Wishlist.
 
 ### Deployed Link
-offtheshelff.herokuapp.com
+https://offtheshelff.herokuapp.com/
 
 ## Tech Stack
 Django
@@ -11,7 +11,6 @@ PostgresQL
 ## Added Tech
 - GoodReads API
 - OMDB API
-- 
 
 ### Pip installations
 - requests
